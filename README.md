@@ -1,6 +1,6 @@
 ## I'm HoangNguyen 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoang-nguyen-huy&theme=tokyonight&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoang-nguyen-huy)](https://github.com/hoang-nguyen-huy/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoang-nguyen-huy&layout=compact)
 
 <!--
