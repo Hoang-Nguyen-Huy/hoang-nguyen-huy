@@ -9,12 +9,7 @@
 
 ###
 
-<img align="center" height="300" src="https://cdn.dribbble.com/users/235897/screenshots/1712148/media/cca3cbb1f2d28014bae41a453872e66a.gif"  />
+<div align="center">
+  <img align="center" height="300" src="https://cdn.dribbble.com/users/235897/screenshots/1712148/media/cca3cbb1f2d28014bae41a453872e66a.gif"  />
+</div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
