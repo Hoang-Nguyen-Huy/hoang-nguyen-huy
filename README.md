@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <a href="https://app.daily.dev/hoangnguyen1002"><img src="https://api.daily.dev/devcards/v2/65BIW9C5AuRLw6ESYjbtE.png?type=default&r=xb4" width="356" alt="HoangNguyen's Dev Card"/></a>
+  <a href="https://app.daily.dev/hoangnguyen1002"><img src="https://api.daily.dev/devcards/v2/65BIW9C5AuRLw6ESYjbtE.png?type=wide&r=xb4" width="652" alt="HoangNguyen's Dev Card"/></a>
 </div>
 
 <div align="center">
