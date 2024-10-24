@@ -10,6 +10,10 @@
 ###
 
 <div align="center">
+  <a href="https://app.daily.dev/hoangnguyen1002"><img src="https://api.daily.dev/devcards/v2/65BIW9C5AuRLw6ESYjbtE.png?type=default&r=xb4" width="356" alt="HoangNguyen's Dev Card"/></a>
+</div>
+
+<div align="center">
   <img align="center" height="300" src="https://cdn.dribbble.com/users/235897/screenshots/1712148/media/cca3cbb1f2d28014bae41a453872e66a.gif"  />
 </div>
 
