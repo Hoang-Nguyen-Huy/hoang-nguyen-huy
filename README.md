@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Nguyen Huy Hoang</h2>
 
-![](https://komarev.com/ghpvc/?username=Hoang-Nguyen-Huy&color=pink&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Hoang-Nguyen-Huy&color=blue&style=for-the-badge)
 
 ###
 
