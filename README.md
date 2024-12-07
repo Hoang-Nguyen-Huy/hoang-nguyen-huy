@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! My name is Nguyen Huy Hoang</h2>
 
-![](https://komarev.com/ghpvc/?username=Hoang-Nguyen-Huy&color=blue&style=for-the-badge)
-
 ###
 
 <div align="center">
@@ -19,3 +17,6 @@
   <img align="center" height="300" src="https://cdn.dribbble.com/users/235897/screenshots/1712148/media/cca3cbb1f2d28014bae41a453872e66a.gif"  />
 </div>
 
+###
+
+![](https://komarev.com/ghpvc/?username=Hoang-Nguyen-Huy&color=blue&style=for-the-badge)
